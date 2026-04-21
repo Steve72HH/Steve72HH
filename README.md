@@ -1,16 +1,110 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, ich bin Stephan</h1>
+<h3 align="center">🚀 IT Systemadministrator | Automation | Security | DevOps | AI</h3>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=IT+Systemadministrator;Automation+Engineer;Cybersecurity+Enthusiast;Docker%7C+TOR%7C+Ansible+%7C+Linux" />
 
-<!--
-**Steve72HH/Steve72HH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Steve72HH&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* 💼 IT Systemadministrator im Rechenzentrum
+* ⚙️ Fokus: **Linux, Docker, Ansible, Automation, AI**
+* 🔐 Security: **CrowdSec, Fail2Ban, Tor Netzwerk**
+* 🌍 Betreibe mehrere Server & eigene Infrastruktur
+* 🤖 Interesse an **AI Automatisierung (n8n, LLMs)**
+
+---
+
+## 🔥 Aktuelle Projekte
+
+### 🐳 Docker Swarm Enterprise Stack
+
+Production-ready Swarm Cluster mit:
+
+* Traefik Reverse Proxy (Let's Encrypt)
+* Monitoring (Prometheus + Grafana)
+* Security (CrowdSec)
+* CI/CD Auto Deploy
+
+👉 https://github.com/Steve72HH/Docker-Swarm-Cluster-Ansible-Automation-
+
+---
+
+### 🛡️ CrowdSec Security Cluster
+
+* Zentrale LAPI + verteilte Agenten
+* Automatische Firewall Integration (UFW)
+* Vollständig automatisiert via Ansible
+
+---
+
+### 🧅 Tor Relay Infrastruktur
+
+* Multi-Node Relay Setup
+* IPv4 + IPv6 optimiert
+* Deployment über Ansible
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Sprachen
+
+<p>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### ⚙️ DevOps & Infrastruktur
+
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/NGINX-24A1C1?style=for-the-badge&logo=traefikproxy"/>
+</p>
+
+### 🔐 Security
+
+<p>
+<img src="https://img.shields.io/badge/CrowdSec-2E5EAA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Fail2Ban-black?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Steve72HH&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steve72HH&layout=compact&theme=dark" />
+</p>
+
+---
+
+## 📈 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Steve72HH&theme=github-dark"/>
+</p>
+
+---
+
+## 🌍 Connect
+
+<p>
+<a href="https://github.com/Steve72HH"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
+<a href="https://digital-world.dev"><img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge"/></a>
+</p>
+
+---
+
+## ⚡ Motto
+
+> "Automate everything. Secure everything. Understand everything."
