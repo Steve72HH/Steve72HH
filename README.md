@@ -1,7 +1,11 @@
 ![Banner](https://raw.githubusercontent.com/Steve72HH/tor-relay-enterprise-stack/main/Banner.png)
 
 <h1 align="center">Hi 👋, ich bin Stephan</h1>
-<h3 align="center">🚀 IT Systemadministrator | Automation | Security | DevOps | AI</h3>
+
+
+💻 Infrastructure Engineer | 🔐 Security | 🌐 Tor Relay Operator  
+📘 Autor von *Tor – Das Praxis-Handbuch*
+<h3 align="center">🚀 IT Systemadministrator | Infrastructure Automation | Security Engineering | Tor Relay Operator | AI</h3>
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=IT+Systemadministrator;Automation+Engineer;Cybersecurity+Enthusiast;Docker%7C+TOR%7C+Ansible+%7C+Linux" />
 
 <p align="center">
@@ -22,29 +26,31 @@
 
 ---
 
-## 🔥 Aktuelle Projekte
+
+## 🚀 Aktuelle Projekte
 
 ### 🐳 Docker Swarm Enterprise Stack
-
-Production-ready Swarm Cluster mit:
-
-* Traefik Reverse Proxy (Let's Encrypt)
-* Monitoring (Prometheus + Grafana)
-* Security (CrowdSec)
-* CI/CD Auto Deploy
+Production-ready Cluster mit:
+- Traefik Reverse Proxy
+- Prometheus + Grafana
+- CrowdSec Security
+- CI/CD Autodeploy
 
 👉 https://github.com/Steve72HH/Docker-Swarm-Cluster
 
-## 🚀 Projekte
 
-🔹 [Tor Relay Enterprise Stack](https://github.com/Steve72HH/tor-relay-enterprise-stack)  
- Produktionsreife Infrastruktur für Tor-Relays mit:
+
+### 🌐 Tor Relay Enterprise Stack
+
+Produktionsreife Infrastruktur für Tor-Relays:
 
 - Ansible Automation
 - UFW + Fail2ban + CrowdSec
-- Prometheus + Grafana Monitoring
+- Monitoring (Prometheus + Grafana)
 - Alerting via Telegram
 
+👉 https://github.com/Steve72HH/tor-relay-enterprise-stack
+ 
 ---
 
 ### 🛡️ CrowdSec Security Cluster
@@ -55,11 +61,7 @@ Production-ready Swarm Cluster mit:
 
 ---
 
-### 🧅 Tor Relay Infrastruktur
 
-* Multi-Node Relay Setup
-* IPv4 + IPv6 optimiert
-* Deployment über Ansible
 
 ---
 
