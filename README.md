@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/Steve72HH/tor-relay-enterprise-stack/main/banner.png)
+
 <h1 align="center">Hi 👋, ich bin Stephan</h1>
 <h3 align="center">🚀 IT Systemadministrator | Automation | Security | DevOps | AI</h3>
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=IT+Systemadministrator;Automation+Engineer;Cybersecurity+Enthusiast;Docker%7C+TOR%7C+Ansible+%7C+Linux" />
