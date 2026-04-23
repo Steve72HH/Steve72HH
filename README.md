@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/Steve72HH/tor-relay-enterprise-stack/main/Banner.png)
+![Banner](https://raw.githubusercontent.com/Steve72HH/tor-relay-enterprise-stack/Banner.png)
 
 <h1 align="center">Hi 👋, ich bin Stephan</h1>
 
