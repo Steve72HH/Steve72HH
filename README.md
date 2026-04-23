@@ -21,7 +21,7 @@
 * 💼 IT Systemadministrator im Rechenzentrum
 * ⚙️ Fokus: **Linux, Docker, Ansible, Automation, AI**
 * 🔐 Security: **CrowdSec, Fail2Ban, Tor Netzwerk**
-* 🌍 Betreibe mehrere Server & eigene Infrastruktur
+* 🌍 Betreiber mehrerer Tor Relays & eigener Infrastruktur
 * 🤖 Interesse an **AI Automatisierung (n8n, LLMs)**
 
 ---
