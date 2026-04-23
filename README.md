@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/Steve72HH/tor-relay-enterprise-stack/main/banner.png)
+![Banner](https://raw.githubusercontent.com/Steve72HH/tor-relay-enterprise-stack/main/Banner.png)
 
 <h1 align="center">Hi 👋, ich bin Stephan</h1>
 <h3 align="center">🚀 IT Systemadministrator | Automation | Security | DevOps | AI</h3>
