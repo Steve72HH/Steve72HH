@@ -5,6 +5,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Steve72HH&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+💻 IT-Systemadministrator | 🔐 Security | 🌐 Tor Relay Operator  
+📘 Autor von *Tor – Das Praxis-Handbuch*
 
 ---
 
@@ -29,7 +31,17 @@ Production-ready Swarm Cluster mit:
 * Security (CrowdSec)
 * CI/CD Auto Deploy
 
-👉 https://github.com/Steve72HH/Docker-Swarm-Cluster-Ansible-Automation-
+👉 https://github.com/Steve72HH/Docker-Swarm-Cluster
+
+## 🚀 Projekte
+
+🔹 [Tor Relay Enterprise Stack](https://github.com/Steve72HH/tor-relay-enterprise-stack)  
+ Produktionsreife Infrastruktur für Tor-Relays mit:
+
+- Ansible Automation
+- UFW + Fail2ban + CrowdSec
+- Prometheus + Grafana Monitoring
+- Alerting via Telegram
 
 ---
 
@@ -75,6 +87,45 @@ Production-ready Swarm Cluster mit:
 </p>
 
 ---
+
+## 🛠️ Tech Stack
+
+![Linux](https://img.shields.io/badge/Linux-Debian-red)
+![Docker](https://img.shields.io/badge/Docker-Container-blue)
+![Ansible](https://img.shields.io/badge/Automation-Ansible-orange)
+![Security](https://img.shields.io/badge/Security-CrowdSec%20%7C%20Fail2ban-green)
+![Monitoring](https://img.shields.io/badge/Monitoring-Grafana%20%7C%20Prometheus-yellow)
+
+---
+
+## 📊 Fokus
+
+- Infrastruktur-Automatisierung
+- Security Engineering
+- Tor Netzwerk & Privacy
+- Monitoring & Observability
+
+---
+
+## 📘 Buch
+
+**Tor – Das Praxis-Handbuch**  
+Anonymität verstehen, Relays betreiben, das Darknet richtig nutzen
+
+👉 Alle Setups aus dem Buch findest du im Repo
+
+---
+
+## 🔥 Motto
+
+> Infrastruktur wird nicht manuell gebaut.  
+> Infrastruktur wird automatisiert.
+
+---
+
+## 📫 Kontakt
+
+- GitHub Issues für technische Fragen
 
 ## 📊 GitHub Stats
 
