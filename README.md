@@ -13,6 +13,7 @@
 </p>
 💻 IT-Systemadministrator | 🔐 Security | 🌐 Tor Relay Operator  
 📘 Autor von *Tor – Das Praxis-Handbuch*
+📘 Autor von *Linux absichern: Praxisleitfaden für Firewall, Fail2Ban, CrowdSec, Suricata und Server-Härtung *
 
 ---
 
@@ -118,6 +119,11 @@ Anonymität verstehen, Relays betreiben, das Darknet richtig nutzen
 
 👉 Alle Setups aus dem Buch findest du im Repo
 
+**Linux absichern: Praxisleitfaden für Firewall, Fail2Ban, CrowdSec, Suricata und Server-Härtung**
+
+👉 Alle Setups aus dem Buch findest du im Repo
+
+
 ---
 
 ## 🔥 Motto
@@ -128,6 +134,7 @@ Anonymität verstehen, Relays betreiben, das Darknet richtig nutzen
 ---
 
 ## 📫 Kontakt
+**https://www.digital-world.dev**
 
 - GitHub Issues für technische Fragen
 
